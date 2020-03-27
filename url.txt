@@ -11,4 +11,5 @@ user - admin@bladephp.co
 pass - 123456
 
 databse name - new_project1
-123
+
+123456
