@@ -1,0 +1,18 @@
+http://localhost/new_project1/
+
+http://localhost/new_project1/admin/
+
+http://localhost/new_project1/admin/login.php
+
+http://localhost/new_project1/admin/dashboard.php
+
+user - admin@bladephp.co
+
+pass - 123456
+
+databse name - new_project1
+
+123456
+
+
+123456789
